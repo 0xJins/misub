@@ -1,0 +1,11 @@
+%YAML 1.1
+---
+proxies:
+- {name: V1 🇭🇰香港1 IPLC 倍率1x - 小飞机, server: s.hkspeedup.com, port: 4001, type: ss, cipher: aes-256-gcm, password: jimidbu24z, udp: true}
+- {name: V2 🇭🇰香港2 IPLC 倍率1x - 小飞机, server: s.hkspeedup.com, port: 4002, type: ss, cipher: aes-256-gcm, password: jimidbu24z, udp: true}
+- {name: V2 🇭🇰香港3 IPLC 倍率1x - 小飞机, server: s.hkspeedup.com, port: 4003, type: ss, cipher: aes-256-gcm, password: jimidbu24z, udp: true}
+- {name: V2 🇭🇰香港5 IPLC 倍率1x - 小飞机, server: s.hkspeedup.com, port: 4005, type: ss, cipher: aes-256-gcm, password: jimidbu24z, udp: true}
+- {name: V2 🇭🇰香港负载均衡 IPLC 倍率1x - 小飞机, server: s.hkspeedup.com, port: 4101, type: ss, cipher: aes-256-gcm, password: jimidbu24z, udp: true}
+- {name: 🇹🇼 V3 🇨🇳台湾1(低峰高速) IPLC 倍率1x - 小飞机, server: s2.hkspeedup.com, port: 4041, type: ss, cipher: aes-256-gcm, password: jimidbu24z, udp: true}
+- {name: 🇹🇼 V3 🇨🇳台湾1(高峰高速) IPLC 倍率1x - 小飞机, server: s2.hkspeedup.com, port: 4106, type: ss, cipher: aes-256-gcm, password: jimidbu24z, udp: true}
+- {name: V3 🇭🇰香港负载均衡 IPLC 倍率1x - 小飞机, server: s2.hkspeedup.com, port: 4102, type: ss, cipher: aes-256-gcm, password: jimidbu24z, udp: true}

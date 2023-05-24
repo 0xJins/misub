@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 测试节点 - 小飞机, server: s2.hkspeedup.com, port: 1000, type: ss, cipher: aes-256-gcm, password: jimidbu24z, udp: true}

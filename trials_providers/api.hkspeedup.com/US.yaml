@@ -1,0 +1,9 @@
+%YAML 1.1
+---
+proxies:
+- {name: V1 🇺🇸美国1 IPLC 倍率1x - 小飞机, server: s.hkspeedup.com, port: 4021, type: ss, cipher: aes-256-gcm, password: jimidbu24z, udp: true}
+- {name: V1 🇺🇸美国2 IPLC 倍率1x - 小飞机, server: s.hkspeedup.com, port: 4022, type: ss, cipher: aes-256-gcm, password: jimidbu24z, udp: true}
+- {name: V2 🇺🇸美国3 解TikTok原生IP IPLC 倍率1x - 小飞机, server: s2.hkspeedup.com, port: 4023, type: ss, cipher: aes-256-gcm, password: jimidbu24z, udp: true}
+- {name: V3 🇺🇸美国1 IPLC 倍率1x - 小飞机, server: s2.hkspeedup.com, port: 4103, type: ss, cipher: aes-256-gcm, password: jimidbu24z, udp: true}
+- {name: V3 🇺🇸美国2 IPLC 倍率1x - 小飞机, server: s2.hkspeedup.com, port: 4104, type: ss, cipher: aes-256-gcm, password: jimidbu24z, udp: true}
+- {name: V3 🇺🇸美国3 解TikTok原生IP IPLC 倍率1x - 小飞机, server: s2.hkspeedup.com, port: 4105, type: ss, cipher: aes-256-gcm, password: jimidbu24z, udp: true}

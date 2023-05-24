@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: V1 🇸🇬新加坡 IPLC 倍率1x - 小飞机, server: s.hkspeedup.com, port: 4031, type: ss, cipher: aes-256-gcm, password: jimidbu24z, udp: true}
