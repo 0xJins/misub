@@ -1,6 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇹🇼 台湾1|优化| x2 - 极速云, server: tw1.microsoftjs.top, port: 443, type: trojan, password: 2a33af30-ef37-4f40-b903-dad5f167398f, sni: tls.microsoftjs.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾2|优化| x2 - 极速云, server: tw2.microsoftjs.top, port: 443, type: trojan, password: 2a33af30-ef37-4f40-b903-dad5f167398f, sni: tls.microsoftjs.top, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾3|优化| x2 - 极速云, server: tw3.microsoftjs.top, port: 443, type: trojan, password: 2a33af30-ef37-4f40-b903-dad5f167398f, sni: tls.microsoftjs.top, skip-cert-verify: true, udp: true}
