@@ -2,7 +2,7 @@
 email  gfnaztk533@hackertales.com
 last_checkin  2023-06-06 15:33:58.131543+08:00
 node_n  92
-sub_info  0B  1.055G  2023-06-07 15:33:57+08:00  (剩余 1.055G 23:59:52.137221)
+sub_info  0B  1.055G  2023-06-07 15:33:57+08:00  (剩余 1.055G 23:48:43.116837)
 sub_url  https://network.ayucloud.nl/link/i7StFmCPZBIrpyTi?clash=1
 time  2023-06-06 15:34:00.146057+08:00
-保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
+保存clash订阅失败  'NoneType' object is not iterable
