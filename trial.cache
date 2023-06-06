@@ -2,6 +2,7 @@
 email  zucheyfi799@guerrillamail.com
 last_checkin  2023-06-06 00:30:12.819649+08:00
 node_n  92
-sub_info  32.2M  1.801G  2023-06-06 15:54:32+08:00  (剩余 1.769G 0:50:11.333621)
+sub_info  34M  1.801G  2023-06-06 15:54:32+08:00  (剩余 1.768G 0:34:03.461461)
 sub_url  https://network.ayucloud.nl/link/APFVCWmftGGGBZe3?clash=1
 time  2023-06-05 15:54:35.444076+08:00
+保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
