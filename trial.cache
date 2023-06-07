@@ -1,7 +1,8 @@
 [ayucloud.services]
-email  gfnaztk533@hackertales.com
-last_checkin  2023-06-07 00:39:49.582737+08:00
+email  hxcsfdm245@guerrillamail.biz
+last_checkin  2023-06-07 15:20:37.412323+08:00
 node_n  92
-sub_info  435.6K  1.616G  2023-06-07 15:33:57+08:00  (剩余 1.616G 0:28:03.691576)
+sub_info  435.6K  1.616G  2023-06-07 15:33:57+08:00  (剩余 1.616G 0:12:43.152930)
 sub_url  https://network.ayucloud.nl/link/i7StFmCPZBIrpyTi?clash=1
 time  2023-06-06 15:34:00.146057+08:00
+更新订阅链接/续费续签失败  HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user (Caused by ReadTimeoutError("HTTPSConnectionPool(host='ayucloud.services', port=443): Read timed out. (read timeout=5)"))
