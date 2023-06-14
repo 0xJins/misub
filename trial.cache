@@ -2,6 +2,7 @@
 email  rcxgbni58@grr.la
 last_checkin  2023-06-14 00:40:19.485221+08:00
 node_n  92
-sub_info  0B  1.677G  2023-06-14 21:34:40+08:00  (剩余 1.677G 1:41:27.132663)
+sub_info  0B  1.677G  2023-06-14 21:34:40+08:00  (剩余 1.677G 0:39:33.994662)
 sub_url  https://network.ayucloud.nl/link/bOZknRP5nfRYS7Yh?clash=1
 time  2023-06-13 21:34:43.202691+08:00
+保存clash订阅失败  'NoneType' object is not iterable
