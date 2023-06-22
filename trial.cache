@@ -2,6 +2,7 @@
 email  pnoswdlve265@grr.la
 last_checkin  2023-06-22 00:30:36.871059+08:00
 node_n  93
-sub_info  608.9M  1.722G  2023-06-22 17:23:11+08:00  (剩余 1.127G 3:27:49.662177)
+sub_info  619.9M  1.722G  2023-06-22 17:23:11+08:00  (剩余 1.116G 3:00:46.302526)
 sub_url  https://network.ayucloud.nl/link/DLr2vilyiSNtgEIP?clash=1
 time  2023-06-21 17:23:13.900860+08:00
+保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
