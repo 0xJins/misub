@@ -2,7 +2,7 @@
 email  synzgcq616@hackertales.com
 last_checkin  2023-07-05 00:42:47.431875+08:00
 node_n  93
-sub_info  448.7M  1.684G  2023-07-05 22:23:19+08:00  (剩余 1.245G 17:25:08.398623)
+sub_info  448.7M  1.684G  2023-07-05 22:23:19+08:00  (剩余 1.245G 17:03:45.787895)
 sub_url  https://network.ayucloud.nl/link/aeolz9wNYMUduXQT?clash=1
 time  2023-07-04 22:23:21.866275+08:00
-保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
+保存clash订阅失败  'NoneType' object is not iterable
