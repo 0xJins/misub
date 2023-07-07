@@ -2,7 +2,7 @@
 email  ptntbbp696@getsingspiel.com
 last_checkin  2023-07-07 00:40:12.780879+08:00
 node_n  93
-sub_info  574.7M  1.912G  2023-07-07 21:50:16+08:00  (剩余 1.351G 3:12:19.842023)
+sub_info  574.9M  1.912G  2023-07-07 21:50:16+08:00  (剩余 1.351G 2:59:09.552690)
 sub_url  https://network.ayucloud.nl/link/8tfnbD3V5L9dVHom?clash=1
 time  2023-07-06 21:50:19.623301+08:00
-保存clash订阅失败  'NoneType' object is not iterable
+保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
