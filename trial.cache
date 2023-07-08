@@ -2,6 +2,7 @@
 email  gzlhrleeh48@uuf.me
 last_checkin  2023-07-08 00:38:37.729273+08:00
 node_n  93
-sub_info  955.7M  1.817G  2023-07-08 21:32:53+08:00  (剩余 905.3M 5:24:35.115815)
+sub_info  1.004G  1.817G  2023-07-08 21:32:53+08:00  (剩余 832.4M 5:04:11.501196)
 sub_url  https://network.ayucloud.nl/link/ARXkWJo2WCVfQFzM?clash=1
 time  2023-07-07 21:32:55.675445+08:00
+保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
