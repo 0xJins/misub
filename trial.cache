@@ -2,6 +2,7 @@
 email  fgjdflozp302@guerrillamail.com
 last_checkin  2023-07-11 00:45:54.610039+08:00
 node_n  93
-sub_info  13.2M  1.009G  2023-07-12 00:45:53+08:00  (剩余 1020M 5:52:22.645097)
+sub_info  14.17M  1.009G  2023-07-12 00:45:53+08:00  (剩余 1019M 5:33:15.868646)
 sub_url  https://network.ayucloud.nl/link/Wh70srjIjYMc4QwS?clash=1
 time  2023-07-11 00:45:56.344126+08:00
+保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
