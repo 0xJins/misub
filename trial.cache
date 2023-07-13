@@ -2,6 +2,7 @@
 email  yietybitq317@futuramind.com
 last_checkin  2023-07-13 00:44:52.131764+08:00
 node_n  93
-sub_info  111M  1.71G  2023-07-13 21:36:32+08:00  (剩余 1.602G 10:02:54.827116)
+sub_info  111.5M  1.71G  2023-07-13 21:36:32+08:00  (剩余 1.601G 9:49:45.524208)
 sub_url  https://network.ayucloud.nl/link/DvSTiUmilOSTuEwQ?clash=1
 time  2023-07-12 21:36:34.602353+08:00
+保存clash订阅失败  get_rules: 获取规则失败: 'NoneType' object is not iterable
